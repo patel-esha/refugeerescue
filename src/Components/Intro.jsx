@@ -106,7 +106,7 @@ const Intro = () => {
         <Left>
         <h1 style={{fontSize: '8vw', marginTop:'1vw'}}>Support. Protect. Give.</h1>
           <WhatWeDo>
-            <Line src = "./img/line.png"/>
+            <Line src = "./img/line.png"/> //https://www.freepnglogos.com/pics/line
             <h2 style={{fontSize:'3.5vw', color:'#FCF3EA'}}>What We Do</h2>
           </WhatWeDo>
           <h3 style={{fontSize:'2vw'}}>Supporting refugees through funding accessible resources, restoring environments, and saving lives</h3>
