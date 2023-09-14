@@ -113,7 +113,7 @@ const Intro = () => {
           <Button>Learn More</Button>
         </Left>
         <Right>
-          <Model src="./img/help.webp"/>
+          <Model src="./img/help.webp"/> //https://www.theguardian.com/society/2015/nov/30/life-as-a-red-cross-worker-on-the-refugee-frontline-we-lived-through-a-war-too
         </Right>
       </Container>
     </Section>
