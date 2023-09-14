@@ -106,14 +106,14 @@ const Intro = () => {
         <Left>
         <h1 style={{fontSize: '8vw', marginTop:'1vw'}}>Support. Protect. Give.</h1>
           <WhatWeDo>
-            <Line src = "./img/line.png"/> <!--https://www.freepnglogos.com/pics/line-->
+            <Line src = "./img/line.png"/> /*https://www.freepnglogos.com/pics/line*/
             <h2 style={{fontSize:'3.5vw', color:'#FCF3EA'}}>What We Do</h2>
           </WhatWeDo>
           <h3 style={{fontSize:'2vw'}}>Supporting refugees through funding accessible resources, restoring environments, and saving lives</h3>
           <Button>Learn More</Button>
         </Left>
         <Right>
-          <Model src="./img/help.webp"/> //https://www.theguardian.com/society/2015/nov/30/life-as-a-red-cross-worker-on-the-refugee-frontline-we-lived-through-a-war-too
+          <Model src="./img/help.webp"/> /*https://www.theguardian.com/society/2015/nov/30/life-as-a-red-cross-worker-on-the-refugee-frontline-we-lived-through-a-war-too*/
         </Right>
       </Container>
     </Section>
